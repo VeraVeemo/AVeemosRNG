@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36930.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVeemosRNG", "AVeemosRNG.csproj", "{98CC4012-BED7-470D-9A37-6EE7B8F4203D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98CC4012-BED7-470D-9A37-6EE7B8F4203D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98CC4012-BED7-470D-9A37-6EE7B8F4203D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98CC4012-BED7-470D-9A37-6EE7B8F4203D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98CC4012-BED7-470D-9A37-6EE7B8F4203D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72BC3665-A968-4003-9F41-F02D2760E098}
+	EndGlobalSection
+EndGlobal
